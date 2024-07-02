@@ -31,8 +31,8 @@ This project demonstrates a full-stack integration with HubSpot, Airtable, and N
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/integrations-hubspot-airtable-notion.git
-cd integrations-hubspot-airtable-notion
+git clone https://github.com/zeus2611/python-backend-integration.git
+cd python-backend-integration
 ```
 
 ### Backend Setup
